@@ -1,0 +1,6 @@
+A clock in app for a shopping complex.
+**The app logs the time a store opens or closes with the aid of an Admin.
+**The app displays shops that are  closed or open
+**A daily, weekly, monthly and yearly report can be viewed for a particular store.
+**i am still developing the app, this is just to express how i am familiar with php and laravel. 
+
